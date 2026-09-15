@@ -1,0 +1,19 @@
+{
+  "clubes": [
+    {
+      "id": 1,
+      "nome": "Clube do Terror",
+      "qtdMembros": 142
+    },
+    {
+      "id": 2,
+      "nome": "Romances de Época",
+      "qtdMembros": 89
+    },
+    {
+      "id": 3,
+      "nome": "Ficção Científica",
+      "qtdMembros": 210
+    }
+  ]
+}
